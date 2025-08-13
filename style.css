@@ -1,7 +1,15 @@
 body {
+
     text-align: center;
     background-image: url("metaal.png");
 
+
+
     color: rgb(255, 2, 2);
     font-family: 'Comic Sans MS'
+}
+.grey {
+    margin:auto;
+    max-width: 40em;
+    background-color: lightgrey;
 }
